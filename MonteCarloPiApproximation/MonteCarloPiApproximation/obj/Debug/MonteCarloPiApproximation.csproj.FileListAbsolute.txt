@@ -1,0 +1,7 @@
+C:\Users\Tachi\source\repos\MonteCarloPiApproximation\MonteCarloPiApproximation\bin\Debug\MonteCarloPiApproximation.exe.config
+C:\Users\Tachi\source\repos\MonteCarloPiApproximation\MonteCarloPiApproximation\bin\Debug\MonteCarloPiApproximation.exe
+C:\Users\Tachi\source\repos\MonteCarloPiApproximation\MonteCarloPiApproximation\bin\Debug\MonteCarloPiApproximation.pdb
+C:\Users\Tachi\source\repos\MonteCarloPiApproximation\MonteCarloPiApproximation\obj\Debug\MonteCarloPiApproximation.csproj.AssemblyReference.cache
+C:\Users\Tachi\source\repos\MonteCarloPiApproximation\MonteCarloPiApproximation\obj\Debug\MonteCarloPiApproximation.csproj.CoreCompileInputs.cache
+C:\Users\Tachi\source\repos\MonteCarloPiApproximation\MonteCarloPiApproximation\obj\Debug\MonteCarloPiApproximation.exe
+C:\Users\Tachi\source\repos\MonteCarloPiApproximation\MonteCarloPiApproximation\obj\Debug\MonteCarloPiApproximation.pdb
